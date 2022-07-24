@@ -1,3 +1,7 @@
+# Observação
+***Meus conhecimentos em java são limitados e não consegui instalar java 14. Porém instalei o 17,   que é uma versão LTS. Inumeros erros aparecem no código na versão 17 e pacotes comuns na versão 11, como java.collection são classificados como erro nesta versão. Se souber e estiver disposto a colaborar, siga para o repositório original e envie sua versão atualizada desta [atividade](https://github.com/rpeleias-v1/beer_api_digital_innovation_one):***
+
+
 <h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Nesta live coding, vamos aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.
